@@ -1,1 +1,1 @@
-### git pull <REMOTENAME> <URL> //Pull in changes.
+### git pull \<REMOTENAME> <URL> //Pull in changes.

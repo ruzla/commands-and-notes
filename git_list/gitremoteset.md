@@ -1,1 +1,1 @@
-### git remote set-url <REMOTENAME> \<URL>\ //Set a URL to a remote
+### git remote set-url \<REMOTENAME> \<URL> //Set a URL to a remote
