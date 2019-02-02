@@ -1,0 +1,1 @@
+### git remote add <REMOTENAME(USUALL ORIGIN)> <URL> //Add remote connections
