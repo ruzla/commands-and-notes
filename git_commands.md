@@ -9,3 +9,6 @@
 - [git pull](/git_list/gitpull.md)
 - [git remote -v](/git_list/gitremotev.md)
 - [git push](/git_list/gitpush.md)
+- [git checkout](/git_list/gitcheckout.md)
+- [git branch](/git_list/gitbranch.md)
+- 
