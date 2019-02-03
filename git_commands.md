@@ -11,4 +11,3 @@
 - [git push](/git_list/gitpush.md)
 - [git checkout](/git_list/gitcheckout.md)
 - [git branch](/git_list/gitbranch.md)
-- 
