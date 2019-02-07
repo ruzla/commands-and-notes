@@ -1,7 +1,7 @@
-### git branch \<BRANCHNAME> //Create a new branch name
+### git branch \<BRANCHNAME> //Create a new branch name.
 
-### git branch //List the branches
+### git branch //List the branches.
 
-### git branch -m \<NEWBRANCHNAME> //Rename a branch you're currently on
+### git branch -m \<NEWBRANCHNAME> //Rename a branch you're currently on.
 
-### bit branch -d \BRANCHNAME> //Delete local branch
+### bit branch -d \BRANCHNAME> //Delete local branch.

@@ -1,1 +1,1 @@
-### git remote -v //View remote addresses
+### git remote -v //View remote addresses.

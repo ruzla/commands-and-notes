@@ -1,1 +1,1 @@
-### git merge \<BRANCHNAME> //Merge a branch into current branch
+### git merge \<BRANCHNAME> //Merge a branch into current branch.
