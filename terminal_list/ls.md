@@ -1,6 +1,6 @@
-#ls
+# ls
 
-##ls list contents of current directory add switches to see more information
+## ls list contents of current directory add switches to see more information
   - List the contents of the working directory, but in long format.
     ls -l
 
