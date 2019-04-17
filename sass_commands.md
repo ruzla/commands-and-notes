@@ -5,3 +5,4 @@
 - [Imports](/sass/imports.md)
 - [Mixins](/sass/mixins.md)
 - [Mixin Content](/sass/mixin-content.md)
+- [Extend/Inheritance](/sass/extend-inheritance.md)
