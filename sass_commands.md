@@ -8,3 +8,4 @@
 - [Extend/Inheritance](/sass/extend-inheritance.md)
 - [Operators](/sass/operators.md)
 - [Nested Properties](/sass/nested-properties.md)
+- [Parent Selector](/sass/parent-selector.md)
