@@ -9,3 +9,4 @@
 - [Operators](/sass/operators.md)
 - [Nested Properties](/sass/nested-properties.md)
 - [Parent Selector](/sass/parent-selector.md)
+- [Interpolation](/sass/interpolation.md)
