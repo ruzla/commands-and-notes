@@ -10,3 +10,4 @@
 - [Nested Properties](/sass/nested-properties.md)
 - [Parent Selector](/sass/parent-selector.md)
 - [Interpolation](/sass/interpolation.md)
+- [Each interator](/sass/each-iterator.md)
