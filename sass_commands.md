@@ -11,3 +11,4 @@
 - [Parent Selector](/sass/parent-selector.md)
 - [Interpolation](/sass/interpolation.md)
 - [Each interator](/sass/each-iterator.md)
+- [For Loop](/sass/for-loop.md)
