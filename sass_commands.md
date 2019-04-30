@@ -12,3 +12,4 @@
 - [Interpolation](/sass/interpolation.md)
 - [Each interator](/sass/each-iterator.md)
 - [For Loop](/sass/for-loop.md)
+- [While Loop](/sass/while-loop.md)
