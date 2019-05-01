@@ -1,6 +1,6 @@
 # Useful Commands
 
-## Some useful info for git, terminal ans sass.
+## Some useful info for git, terminal and sass.
 
 - [Git Commands](/git_commands.md)
 - [Terminal Commands](/terminal_commands.md)
