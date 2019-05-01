@@ -1,6 +1,6 @@
-# GitHub Practice
+# Useful Commands
 
-## Test repository to practice and refine my git skills!
+## Some useful info for git, terminal ans sass.
 
 - [Git Commands](/git_commands.md)
 - [Terminal Commands](/terminal_commands.md)
